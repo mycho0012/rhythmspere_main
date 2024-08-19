@@ -4,4 +4,8 @@ langchain-openai
 langchain-teddynote
 langchain-google-genai
 python-dotenv
-plotly
+pandas==2.1.1
+yfinance==0.2.31
+plotly==5.17.0
+numpy==1.26.0
+setuptools==68.2.2
