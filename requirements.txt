@@ -1,1 +1,7 @@
 streamlit==1.22.0
+langchain
+langchain-openai
+langchain-teddynote
+langchain-google-genai
+python-dotenv
+plotly
