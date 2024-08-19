@@ -111,7 +111,6 @@ def saju_analysis():
     with st.sidebar:
         if st.button("대화 초기화"):
             reset_session()
-            st.rerun()
 
         st.session_state.model_choice = st.selectbox(
             "AI 모델을 선택해 주세요", ("OpenAI GPT", "Google Gemini"), index=0
