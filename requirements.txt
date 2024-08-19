@@ -9,3 +9,4 @@ yfinance==0.2.31
 plotly==5.17.0
 numpy==1.26.0
 setuptools==68.2.2
+streamlit-option-menu==0.3.2
